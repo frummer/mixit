@@ -1,0 +1,6 @@
+torch>=1.9,<3.0
+torchaudio>=0.9,<3.0
+numpy>=1.19
+wandb>=0.12
+
+git+https://github.com/asteroid-team/asteroid#egg=asteroid
